@@ -1,0 +1,6 @@
+{
+  "name": "Enzo Studio",
+  "description": "Browser-based creative ASCII, Braille, and edge-art studio for transforming photos, video, and live camera into exportable text art.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
